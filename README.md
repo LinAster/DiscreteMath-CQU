@@ -5,12 +5,13 @@
 离散数学课程复习资料合集，整理者 **LinAster**。
 
 ---
-## 作者的话（不是ai写的www）
-这个项目主要用DS的api接Hermes agent做的，调用了Gemini和豆包来做试卷的OCR，咕咕嘎嘎。
-开源的主要目的还是为后人省一点token（bushi）
-Markdown文件格式用Obsidian打开的视觉效果更佳。
-就这样吧www，祝你取得好成绩！
-注：整个README除了这一段都是DS写的（
+## 作者的话（不是ai写的www）：
+
+###  这个项目主要用DS的api接Hermes agent做的，调用了Gemini和豆包来做试卷的OCR，咕咕嘎嘎。
+### 开源的主要目的还是为后人省一点token（bushi）
+### Markdown文件格式用Obsidian打开的视觉效果更佳。
+### 就这样吧www，祝你取得好成绩！
+### 注：整个README除了这一段都是DS写的（
 ---
 ## 内容目录
 
